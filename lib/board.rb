@@ -1,1 +1,1 @@
-array.board = [" "," "," "," "," "," "," "," "," "]
+ruby lib/board.rb
